@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Comradical/magicnumber.git"
+    "url": "git@github.com:Comradical/magicnumber.git"
   },
   "scripts": {
     "test": "test"
