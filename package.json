@@ -11,5 +11,8 @@
     "test": "test"
   },
   "author": "Brian Austgen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
